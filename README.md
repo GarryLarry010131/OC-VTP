@@ -2,7 +2,7 @@
 
 ## Contributions
 
-<img src="D:\OCL\codes_submissionVersion\imgs\image-20251125160138224.png" alt="image-20251125160138224" style="zoom:96%;" />
+<img src="./imgs/Teaser.png" alt="image-20251125160138224" style="zoom:96%;" />
 
 We are **the first** to realize guaranteed vision token pruning (VTP)  that can select **the most representative** tokens. Our method achieves roughly new SotA in terms of VTP for VLM with intuitive object-level interpretability.
 
