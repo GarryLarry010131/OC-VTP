@@ -13,14 +13,14 @@ We are **the first** to realize guaranteed vision token pruning (VTP)  that can 
 
 ## Installation
 
-1. Install the [LLaVA](https://github.com/haotian-liu/LLaVA) environment.
+1. Install the [LLaVA](https://github.com/haotian-liu/LLaVA) environment, or using [`setup_llava.sh`](./setup_llava.sh) to build LLaVA environment.
 2. Run followings to get project codes:
 
 ```
 git clone https://github.com/GarryLarry010131/OC-VTP
 ```
 
-3. Use `requirements.txt` to build an environment.
+3. Use [`requirements.txt`](./requirements.txt) to build an environment.
 
 ## Training
 
