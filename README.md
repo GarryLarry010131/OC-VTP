@@ -71,14 +71,11 @@ This work is built basing on  [LLaVA](https://github.com/haotian-liu/LLaVA) and 
 If you think it is helpful, please consider citing our work!
 
 ```
-@misc{li2025objectcentricvisiontokenpruning,
-      title={Object-Centric Vision Token Pruning for Vision Language Models}, 
-      author={Guangyuan Li and Rongzhen Zhao and Jinhong Deng and Yanbo Wang and Joni Pajarinen},
-      year={2025},
-      eprint={2511.20439},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.20439}, 
+@article{li2025object,
+  title={Object-Centric Vision Token Pruning for Vision Language Models},
+  author={Li, Guangyuan and Zhao, Rongzhen and Deng, Jinhong and Wang, Yanbo and Pajarinen, Joni},
+  journal={arXiv preprint arXiv:2511.20439},
+  year={2025}
 }
 ```
 
