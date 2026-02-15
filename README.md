@@ -64,7 +64,7 @@ After this,  [`figure_plotting.py`](./OC-VTP/figure_plotting.py) can be used to 
 
 ## Acknowledgement
 
-This work is built basing on  [LLaVA](https://github.com/haotian-liu/LLaVA) and [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval). Thanks to their contributions!
+This work is built basing on  [LLaVA](https://github.com/haotian-liu/LLaVA), [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), and [VQ-VFM-OCL](https://github.com/Genera1Z/VQ-VFM-OCL). Thanks to their contributions!
 
 ## Citation
 
