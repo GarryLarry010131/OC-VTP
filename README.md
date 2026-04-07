@@ -62,7 +62,7 @@ done
 
 After this,  [`figure_plotting.py`](./OC-VTP/figure_plotting.py) can be used to plot **token-selection images**.
 
-A pretrained OC-Pruner checkpoint is available on Hugging Face for a quick preview:
+A pretrained OC-Pruner checkpoint is available on [Hugging Face](https://huggingface.co/GarryLarry0131/OC-VTP) for a quick preview:
 ```bash
 # Download checkpoint
 huggingface-cli download GarryLarry0131/OC-VTP weights.pth --local-dir ./checkpoints
