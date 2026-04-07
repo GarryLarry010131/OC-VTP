@@ -62,6 +62,12 @@ done
 
 After this,  [`figure_plotting.py`](./OC-VTP/figure_plotting.py) can be used to plot **token-selection images**.
 
+A pretrained OC-Pruner checkpoint is available on Hugging Face for a quick preview:
+```bash
+# Download checkpoint
+huggingface-cli download GarryLarry0131/OC-VTP weights.pth --local-dir ./checkpoints
+```
+
 ## Acknowledgement
 
 This work is built basing on  [LLaVA](https://github.com/haotian-liu/LLaVA), [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), and [VQ-VFM-OCL](https://github.com/Genera1Z/VQ-VFM-OCL). Thanks to their contributions!
